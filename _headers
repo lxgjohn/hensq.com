@@ -1,6 +1,0 @@
-/*
-  Cache-Control: public, max-age=3600
-  X-Frame-Options: SAMEORIGIN
-
-/assets/*
-  Cache-Control: public, max-age=86400 
